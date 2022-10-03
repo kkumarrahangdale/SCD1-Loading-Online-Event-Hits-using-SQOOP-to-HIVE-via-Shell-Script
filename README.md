@@ -1,0 +1,1 @@
+# SCD1-Loading-Online-Event-Hits-using-SQOOP-to-HIVE-via-Shell-Script
